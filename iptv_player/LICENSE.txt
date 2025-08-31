@@ -1,0 +1,22 @@
+LICENÇA COMERCIAL
+
+Este software é fornecido sob licença comercial. Ao adquirir este produto, você concorda com os seguintes termos:
+
+1. Permissão de Uso
+- O comprador tem o direito de usar, modificar e distribuir o código-fonte deste aplicativo em projetos próprios e/ou de clientes.
+- É permitido publicar o aplicativo nas lojas (Google Play, App Store, etc.) sob sua própria marca.
+
+2. Restrições
+- Não é permitido revender, sublicenciar ou redistribuir o código-fonte, total ou parcialmente, em marketplaces de código ou plataformas similares, sem autorização expressa do autor.
+- Não é permitido remover os avisos de copyright do autor original deste software.
+
+3. Suporte e Atualizações
+- O suporte e as atualizações não estão inclusos, salvo acordo comercial específico.
+
+4. Isenção de Responsabilidade
+- O software é fornecido "no estado em que se encontra", sem garantias de qualquer tipo. O autor não se responsabiliza por danos diretos ou indiretos decorrentes do uso deste software.
+
+5. Direitos Autorais
+- Copyright (c) 2025 Seu Nome ou Empresa. Todos os direitos reservados.
+
+Para dúvidas ou negociações de licença estendida, entre em contato: seu-email@dominio.com
